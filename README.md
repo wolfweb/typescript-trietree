@@ -7,7 +7,7 @@ npm i @wolfweb/trieTree
 
 ## usage 
 ```
-import { Trie } from '@wolfweb/trieTree'
+import { Trie } from '@wolfweb/trie-tree'
 
 const trie = new Trie();
 
