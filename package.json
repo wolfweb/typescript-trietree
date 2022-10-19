@@ -1,6 +1,6 @@
 {
   "name": "@wolfweb/trie-tree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "typescript trie tree",
   "homepage": "https://github.com/wolfweb/typescript-trietree",
   "scripts": {

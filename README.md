@@ -2,7 +2,7 @@
 
 ## install
 ```
-npm i @wolfweb/trieTree
+npm i @wolfweb/trie-tree
 ```
 
 ## usage 
